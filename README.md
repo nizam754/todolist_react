@@ -68,4 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # todolist_react
+
+# Dependencies
+
+npm add @tensorflow/tfjs @tensorflow/tfjs-vis @tensorflow-models/universal-sentence-encoder lodash uuidjs
+
+npm add @fortawesome/react-fontawesome @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons
+
+npm add react-rainbow-components
